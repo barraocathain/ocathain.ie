@@ -1,0 +1,33 @@
+#+OPTIONS: num:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: html-style:nil
+#+OPTIONS: html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/index.css"/>
+#+HTML_HEAD: <link rel="icon" type="image/x-icon" href="img/Pixel-Barry-Favicon.ico">
+#+TITLE: Barra Ó Catháin's Website
+#+DESCRIPTION: The personal blog and project space of Barra Ó Catháin.
+Hi! I'm Barra. Here you can find my projects, or anything I happened to mull
+over long enough to write it down. I'm currently pursuing a Bachelor's degree in
+Computer Science, and developing a hackable "terminal-top" role-playing game
+engine.
+| [[*Articles][Jump to Articles]] | [[*Projects][Jump To Projects]] |
+* Articles
+** For Want Of A More Limited Computer
+ A lament against certain design trends in computing that has caused the apparent
+ loss of a few of the things I found fascinating in the first place.
+ 
+ [[file:articles/for-want-of-a-more-limited-computer.org][For Want Of A More Limited Computer]]
+
+* Projects
+** Bits and Pieces
+A collection of random scraps of programs and scripts, some of which might even
+work.
+
+[[https://undercroft.ocathain.ie/barra/Bits-And-Pieces][Bits And Pieces]]
+
+** SilverMUD
+A "terminal-top" role-playing game engine, with multi-player over the internet,
+and programmable on the fly using Scheme.
+
+[[https://undercroft.ocathain.ie/barra/SilverMUD][SilverMUD]]
+

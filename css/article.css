@@ -1,0 +1,156 @@
+@keyframes fadein
+{
+    from {opacity: 0%; transform: rotateX(90deg);}
+    to {opacity: 100%; transform: rotateX(0deg);}
+}
+
+@font-face
+{
+  font-family: dejavu;
+  src: url(dejavu.ttf);
+}
+
+div.outline-3
+{
+	background-color: #002b36;
+	border-style: solid;
+	border-color: #93A1A1;
+	border-width: 1px;
+	box-shadow: 2px 10px 5px #002b36;
+	animation-name:fadein;
+	animation-delay:0.5s;
+    animation-duration:0.5s;
+	animation-fill-mode:backwards;
+}
+
+footer
+{
+	background-color: #00362b;
+	border-style: solid;
+	border-color: #93A1A1;
+	height: 2em;
+	position:fixed;
+	bottom: 0;
+	width: 94%;
+	line-height: 2em;
+	text-align: center;
+	border-width: 3px 0px 0px 0px;
+}
+
+html
+{
+	font-family: "dejavu";
+	background-image: url("../img/background.png");
+	padding: 0;
+	height: 100vh;
+	font-style: normal;
+	font-display: swap;
+}
+
+body
+{
+	border-color: #93A1A1;
+	border-style: solid;
+	border-width: 1px;
+	color: #839496;
+	left: 3%;
+	margin: 0%;
+	min-height: 100vh;
+	padding: 0;
+	position: absolute;
+	text-align: left;
+	top: 0%;
+	width: 94%;
+	background-color: #074236;
+}
+
+h1
+{
+	top: 0;
+	color: #859900;
+	position: relative;
+	text-align: center;
+	border-style: double;
+	border-color: #93A1A1;
+	border-width: 0px 0px 3px 0px;
+	box-shadow: 0px 10px 5px #00362b;
+	animation-name:fadein;
+    animation-duration:0.5s;
+	animation-fill-mode:backwards;
+	background-color: #074236;
+}
+
+h2
+{
+	position: relative;
+	padding-left: 4%;
+	padding-top: 0.5%;
+	margin-top: 0;
+	border-style: solid;
+	border-color: #93A1A1;
+	border-width: 0px 0px 3px 0px;
+	background-image: url("../img/header-background.png");
+	box-shadow: 0px 10px 5px #00362b;
+	animation-name:fadein;
+	animation-delay:0.5s;
+    animation-duration:0.5s;
+	animation-fill-mode:backwards;
+}
+
+p
+{
+	position: relative;
+	width: 80%;
+	left: 10%;
+	animation-name:fadein;
+	animation-delay:0.75s;
+    animation-duration:0.5s;
+	animation-fill-mode:backwards;
+}	
+
+a
+{
+	display: block;
+	white-space: nowrap;
+	text-decoration: underline;
+}
+
+a:link {
+    color: #859900;
+}
+
+a:visited {
+    color: #839496;
+}
+
+a:hover {
+    color: #8ebf42;
+}
+
+a:active {
+	color: #800000;
+}
+
+@media screen and (max-width: 800px)
+{
+    div.outline-2
+	{
+		left: 0;
+		width: 100%;
+		padding: 0;
+    }
+	footer
+	{
+		width: 100%; 
+	}
+	body
+	{
+		left: 0;
+		width: 100%; 
+    }
+	p
+	{
+		left: 5%;
+		width: 90%;
+	}
+}
