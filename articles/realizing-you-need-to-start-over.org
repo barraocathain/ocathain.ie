@@ -1,0 +1,77 @@
+#+TITLE: Realizing You Need To Start Over
+#+DATE: <2023-07-28 Fri>
+#+DESCRIPTION: Sometimes, it's better to start fresh, than to continue forward.
+Recently, I've been trying to work up the effort to work on one of my side
+projects. This side project, SilverMUD, is something I've been wanting to make
+for ages, and think about often. Yet when I try to work on it, I find myself
+unmotivated and unproductive. Why would I not /want/ to work on the thing I /want/
+to work on? 
+
+* Figuring Out /Why/ I Don't Want To Work On It.
+I decided to sit down and really think about why I couldn't find the motivation
+to work on it. I sat staring at the codebase, and wondering why all of the ideas
+that were bouncing in my head just didn't seem to want to become lines of C and
+Scheme. I eventually began thinking about what my original goals were when I
+started it. To put it simply, they were:
+
+
+- Learn a load of new concepts like network programming, multi-threaded
+  programming, and more.
+- Use them to build a programmable multi-player role-playing game.
+
+  
+Very vague, I know. I've simplified them here, but that is the essence of
+it. So how did it go? It went well, really well... for the first goal. The
+second, however, went somewhat poorly. I had a general idea of what I wanted to
+build, a setting-agnostic role-playing system that is enjoyable over a
+text-based interface, inspired by text-adventures and multi-user-dungeons of the
+early days of computer entertainment. I never took steps towards building it
+until much later in the project's design. Therein lies the crux of the issue.
+
+I spent my entire time focusing on the one design goal, which was to learn. I
+was excited by the new concepts, and I got right down into it. A perfectly fine
+approach for a learning project. However, I structured the program in a way that
+wasn't really easy to add a game on top of. To get straight down to the point; I
+took a wrong turn with the design. While the goal of learning the concepts was
+going excellently, I wasn't considering game design or programming at any point
+during it, with the assumption that I can do it later.
+
+The weird part is that assumption is true. I could continue with the current
+state of the codebase. However, it's going to require essentially restructring
+the program entirely to do it well. At that point, I may as well consider what
+I've learned since starting, and start again!
+
+That's what I think is best to do in this scenario. Start again. The reason I
+felt like I wasn't able to work on it was because I was trying to avoid
+"throwing away my progress". But that progress was built on a mistake, a misstep
+in terms of design. I had thought about how I would like to build the gameplay
+systems, but I had made no attempt to implement those plans during the design,
+and considering that is the whole point of the program that was a /big/ mistake.
+
+Then, after considering it further, I realized I'm not throwing it away. I'm
+merely doing the same task I'd have to do if I soldiered on, but this time I can
+start from a clean slate and make better decisions.
+
+* What I Have Learned.
+Sometimes, you have to take a step backwards to try a different route. It feels
+annoying, and can feel like you're not making progress, but that isn't the
+case. The really annoying part is that I normally iterate in this way, and leave
+my programs open to that iteration. But this time I just happened to build
+things in such a way that that iteration became difficult and awkward, not
+taking full advantage of the concepts I was learning. I had a gut feeling about
+that when I was writing it, but I found myself having too much fun playing
+around with whizzing bits and bytes up and down wires to stop and do the work
+when it would have been best. 
+
+So to sum it up, if you have the gut feeling that something needs to be changed
+as you're writing it, and you have all the time in the world, do it. Otherwise,
+do it soon as. Otherwise you'll have something built and have to tear it all
+down and start again.
+
+Starting again isn't the same as starting for the first time. You can take what
+you have learned, and build better, build faster. But this time, I have to start
+again. Which is really annoying, because usually I make great effort in making
+the exact opposite happen. Oh, well, can't win 'em all.
+
+And I've basically gotten a chat program out of it, too. A little rebranding,
+and bish bash bosh, poor man's encrypted IRC.

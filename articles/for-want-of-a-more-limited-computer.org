@@ -1,0 +1,262 @@
+#+TITLE: For Want Of A More Limited Computer
+#+DATE: <2023-01-26 Thu>
+#+DESCRIPTION: A lament against certain design trends in computing that has caused the apparent loss in a few of the things I found fascinating about computers in the first place. Or, in other words, a verbose "Damn it, I missed the cool stuff!"
+Modern computing is truly a marvel. I have a device sitting in front of me that
+at my beck and call can send a request halfway around the world for 2 million
+bytes to come screaming down a complex system of connected computers, which is
+then decoded and displayed on a monitor refreshing one hundred and forty-four
+times a second, all taking less than the time it takes me to blink. All of these
+computers working in unison, to deliver to some random guy a distorted image of
+the actor Bob Odenkirk with the caption: "Your Honor, do you expect the jury to
+believe that a shrimp fried that rice?"
+
+/What the actual hell?/ Sixty years ago, the idea of a /personal/ computer that
+could fit in a house was pure science fiction! Then when /microcomputers/ came
+along, it was still preposterous to imagine the average consumer could afford to
+have a computer, much less access to a worldwide network with "free" (more on
+that, later) services and information which can be summoned at a moment's
+notice. And then you look at today's reality, and this amazing technology is
+/real/ and /available/! So what have we all done with it?
+
+* Part One: One Man /Can't/ Know It All.
+I suppose I better start with what I've done.
+
+I've been fascinated with computers ever since my family's first computer, which
+sadly I do not recall the model of. It was a generic enough Windows XP machine,
+that's all I can remember. But it was more than enough to get me hooked. Here was
+a machine that could do many, /many/, things, and my child mind was determined to 
+know /everything/ about it. Many a night was spent poring over menu options,
+trying to find every little thing I could learn about. Broke the thing, a couple
+of times.
+
+I pored over that machine, hoping that I'd be able to understand every little
+thing about it. Granted, I wasn't suddenly going to grasp the intricacies of
+networking, or operating system design, or hardware architecture, especially not
+by just clicking buttons in a Windows XP install. But it did leave me with my
+main hyperfixation: All things computers.
+
+I began to program when I was in third class, when my teacher at the time
+recommended CoderDojo to my parents. I played around with some Scratch, which
+was fun, plugging together little games, I did a bit of HTML and CSS, which
+wasn't really for me. I wanted to know *more*, though.
+
+I started to read a bit about programs I used and games I played. And one day, I
+found something really interesting: The /source code/ of Quake III Arena. It was
+my first time looking through a codebase of that scale. I glanced through it,
+until I came across quite a famous function. Fast Inverse Square Root. I was
+utterly mystified. This was the kind of thing I was enamoured with. A solution
+to a problem that was a mystery itself. "0x5f3759df"? "Evil Floating Point bit
+level hacking"? It was from there I knew I wanted to work with computers, in any
+capacity possible. (It also started my love of arena shooters, because who looks
+at the source code of a game without playing it?) It was also there that I began
+to learn about Free Software, as the GPL was what allowed me to have my little
+revelation. I saw how people could collaborate, improve on each other's work,
+and create something together. I steeled myself, sat down, looked up some
+programming tutorials, and dove in.
+
+At this point I made a pretty big mistake: I started bouncing around languages,
+depending on whatever mood took me. I never got any further than implementing
+something trivial for a few years. I still regret that. I should have realized
+that I wasn't really learning anything new, or developing any useful skills. I
+finally dug in, and picked C to learn "properly", with the goal that it would
+help me understand "what's /really/ going on." 
+
+It did that, somewhat. I tried to learn some x86-64 assembly, to get an even
+deeper look, and was scratching my head at the sheer size of the instruction
+set. But then I finally made my realization: modern personal computers are far
+too advanced for one person to understand, fully. You can understand the general
+concepts, even know a few "secret sauce" tricks, but at the end of the day, you
+can't truly understand everything. Not for lack of trying: even if you were a
+genii, you'd have to work at numerous companies to gain access to the documents
+and designs you'd need to do so. Bit too much of a time-sink, even for the most
+dedicated individuals, for what is ultimately a child-like goal. I could try to
+develop my own operating systems, but the GPU that's sitting in my PCI-e slot is
+far beyond my capabilities to work with. I wouldn't ever understand every
+instruction that my CPU could run, nor am I meant to. No matter what I wrote, I
+could never be sure that I was in full control.
+
+Granted, I could do a project like jdh's computer and graphics card from
+scratch, but that's an altogether different goal. (That can be found on
+YouTube) Designing a computer isn't the same as learning everything about a
+computer you have, though it is perhaps just as or even more impressive. It was
+somewhat possible in the days of 8-bit home computers to understand everything
+about your computer, not easy, but possible. At the end of the day, I have to
+concede to trying to understand quite a bit about my computer, which just
+doesn't have the same /ring/ to it. 
+
+Sometimes I wish I did grow up in the time of the 8-bit home computers, and to
+be able to have my child-like wonder satiated by manuals, schematics, and
+software, to explore and squeeze every last bit of performance out of one of
+those little machines. To this day I'm still fascinated the demoscenes of
+devices like the Commodore 64, or the ZX Spectrum, and have often considered
+trying my hand at them, but ultimately, I've just never gotten around to it.
+
+I hope that in the future, both libre hardware and software will be able to
+create a new useful computer that I /can/ fully understand, but I'll have to wait
+and see on that one. It's simply a fact in our complex, modern computers, that
+there's too much for one man to know.
+
+Then again, maybe it's me that's not smart enough. 
+
+* Part Two: The Internet /Was/ A Big Place.
+For almost as long as I've used computers, I've had some form of Internet
+access. From a USB mobile broadband modem, to a mobile broadband hotspot, to a
+terrible copper-wire router with an attitude problem and a tiny data cap, to
+a finally tolerable router with unlimited data. My earliest memories were of
+playing random flash games, and very little else. Had I found the right
+resources when I was younger, I may have been much farther along in my
+programming journey by now, but that would have been difficult enough.
+I wasn't too much of an explorer in the early days of the internet, holding
+myself back due to tall tales of the dangers of the web, keeping under the
+limited data caps, and most of all, avoiding the anger of my parents, afraid
+that I'd provoke anger by discovering... something. I wasn't sure what at that
+age, but I played it safe. My parents were right, of course. There was a lot of
+stuff I wouldn't have understood at that age and likely would have been harmful.
+
+Had I been older at the time, I would have been able to experience the death
+of the Web 1.0, and the transition of content to social media. I personally
+think that this is what made so much of what toxic, harmful design we see
+today possible. But more than that, this made the internet feel a /whole/ lot
+smaller. No longer are you able to stumble across niche communities by chance,
+not with search engines pointed squarely at the landfill of garbage and
+mind-numbing content perpetuated by whatever platform was "in" at the time.
+
+And that's what I think is sad about the modern internet. Yes, you can find
+cool sites from time to time, but with everyone's eyes glued squarely to
+hostile sites designed to grab their attention for longer and longer, these
+cool sites are cast to the wayside in exchange for the next generic blob of
+popular "culture." I wouldn't feel so annoyed at this if it were the good
+content on these platforms rising to the top, like the layer of foam on a
+soft drink, but it's often the most mind-numbing, low-effort,
+just-entertaining-enough tripe that ends up the algorithms fancy for the
+increasingly shortening attention span of the users.
+
+And it's this plainly *hostile* design that makes me sick to my stomach. These
+platforms are so clearly designed to create addiction in their users, through
+slimey techniques like infinite scrolling and push notifications, where systems
+are built solely for the purpose of maximising the time a user spends on the
+platform, through the mining of data of millions and millions.
+
+I'm not going to pretend I'm a veteran of the older internet and that I know
+exactly where it all went wrong, nor do I intend to gatekeep something I have
+no right to gatekeep. I will, however, say that making content easy to publish
+on the Internet, albeit inside a walled garden, seems like a great way to
+allow creative people to do their thing and show it to an audience, but it
+also allowed people who just wanted to grab a brief moment of fame to trumpet
+in and throw whatever at an audience to see what stuck to do so. It created a
+culture of fleeting attempts at striking it big quick, which leads to a deluge
+of garbage flooding the public conciousness.
+
+But this is just a secondary effect, this dilution of quality and
+creativity. The primary effect of this transition was taking a decentralized
+system and centralizing it into hubs, where a singular corporation would have
+jurisdiction. *This* makes me angry. The freedom of information that is the
+promise of the internet isn't possible with a single party in control of said
+information. Yes, it's more possible than ever to host information outside of
+these networks, but the network effect is a powerful thing. People don't hear
+about things if it isn't on their various newsfeeds. It's created a partition
+between an average user and one which is aware of communities outside of that
+bubble. It's not the users fault, not at all. Once the right person had the
+idea of creating that bubble, there wasn't much anyone could do to stop
+them. Of course people were going to use something that made the hot new thing
+easy for everyone. Of course buisnesses were going to flock to try and make
+money in this new frontier. Of course it was going to become harder and harder
+to find the good from the bad. I speak with hindsight, and I know it wouldn't
+have seemed obvious from that point in time, but yet I still find myself
+annoyed.
+
+Yes, that's probably a me problem. I'll go touch some grass, now.
+
+* Part Three: Holy Hell, It's Getting /Worse/?!
+It's easy to look back at technology with rose-tinted goggles. Taking those off
+for a moment, I remember my first computer being slow and unresponsive. I could
+stare at the Windows XP logo long enough that it would leave a ghost image on my
+eyes afterwards. I'm rather surprised that I managed to get anything done on
+that computer at all, a younger me having much less patience. Thankfully, now in
+2022 I have a reasonably powerful computer, so all my applications should run
+quickly and snappily. 
+
+Right?
+
+/Not a hope in hell./ Somewhere along the line, computers became powerful enough
+that optimization was not the be all and end all. Of course, I can't hold that
+against anyone. Not everyone is going to be the super hacker that does
+pico-optimizations to save a grand total of 3 CPU cycles in a massive
+application like a CAD program or a web browser. But it seems more and more like
+modern programs do everything BUT optimize themselves.
+
+I think the biggest example of what I mean comes from Electron; a nice idea in
+concept, by allowing web developers to create native applications with the
+languages and design capabilities that they're used to. Certainly, it's easier
+to theme and design than something like GTK, that's for sure. But it comes with
+the trade-off of running an entire browser engine to use your application. At
+that point, I'd rather just run your application in my actual browser. I think
+the most egregious examples come from applications which require you to be
+connected to the internet to use anyway: for example, chat programs. However,
+the one that really took the cake for me was Balena Etcher; an image-writing
+program that uses Electron to provide a pretty GUI. Not the worst goal, but to
+run a browser to copy some bytes? /Really?/
+
+And if you ask me, optimization is even more important nowadays. I don't want to
+be wasting cycles to display an application that could be native when I'm on a
+machine with a battery, whether that's a phone or a laptop. At least offer me
+the option to use a native window toolkit or other solution, or if you're
+running a service, to be able to use my own client.
+
+But I'm sure it's just me that needs to get a better computer. Or I just need to
+update for the 50th time today. I'm sure whatever "various bugfixes" have been
+done will solve all of my problems! 
+
+* Part Four: Privacy, or what's /left/ of it.
+Privacy is something that's important to me. Do I have things to /hide?/ No more
+than any other person. I don't want people to know things like my bank account
+information, or the amount of times I listened to the /Wrath of Khan/ theme loop
+in a single sitting. But what I don't understand is the reaction people give
+when you tell them you'd prefer not to be tracked by gigantic corporations who
+log everything you do on your devices and on the internet.
+
+Suddenly, you're accused of being some kind of conspiracy theorist, or you get a
+response along the lines of "But why would they want my data? Who cares?". The
+simple fact of the matter is they do, and they use it specifically to try to
+manipulate you, either through ads, or as we found out about companies like
+Cambridge Analytica, manipulate your political opinions to match whatever the
+highest bidder wants.
+
+And so, as I began earlier, most "free" services you see on the internet aren't
+free at all. It's a transaction. "Let us track you relentlessly in order to
+learn as much as possible about you and the people you connect with, so we can
+sell that data and manipulate you, and you can put funny pictures over your face
+and send them to your friends." Sounds like a much worse deal now, doesn't it?
+
+And really, it /is/ becoming worse and worse. With the advent of machine learning
+and related technologies, who knows what fun new ways to track and analyze us
+corporations are working on? How much can you manipulate a person by knowing how
+their eyeballs move inside of a VR headset, for example? There are people who
+likely have a highly paid job right now to figure that out.
+
+As a rule of thumb, if you or that computer-savvy friend you have can't find the
+source code somewhere for whatever service you're using, or the Privacy Policy
+reads like /Finnegan's Wake/, you're going to have to do a lot of work to not be
+tracked. If it's not critical to your life, I'd say drop it, or start
+researching how to minimize the collection of data from that service. It's
+incredibly fortunate that there are dedicated people who develop software to
+help with things like that.
+
+Or, I suppose, you could wear a tinfoil hat. I'm sure that'll be just as
+effective. 
+* Part Five: So what are you going to /do/ about it?
+To be frank, I can't change all of this. This is the route that design has gone
+down, and after a certain point you can't really fight against the tide. I will,
+however, try not to worsen the problem. And at the end of the day, it's still
+really cool, and I'm still going to try and learn as much as I can.
+
+Just because you can't know it all doesn't mean you get to throw in the towel,
+and so I'm not going to. I'll just write my programs, and hopefully, they'll be
+useful to someone.
+
+But all the while, I'll feel the want of a more limited computer. One that I can
+understand, fully, top to bottom, back to front. One that is not limited in
+usefulness, but in design sprawl. One that I can run software on that doesn't
+trample over my privacy or pin my processor to 100 percent.
+
+Or I could scrounge up a fortune and become one of those diehard /Amiga/ fans.

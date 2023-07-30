@@ -1,0 +1,9 @@
+#+TITLE: SilverMUD
+#+ATTR_HTML: :width 75%
+[[file:../images/SilverMUD-Logo.png]]
+* SilverMUD: The Hackable Terminal-Top Roleplaying Game
+SilverMUD is a text-based multiplayer role-playing game, where gameplay content
+can be created in the programming language Scheme. SilverMUD is currently under
+active development. 
+
+- [[https://undercroft.ocathain.ie/barra/SilverMUD][Source Repository]]

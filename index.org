@@ -1,0 +1,11 @@
+#+TITLE: Barra Ó Catháin's Website
+#+SUBTITLE: Homepage
+* Welcome!
+Hi! I'm Barra. Here you can find my projects, or anything I happen to mull over
+long enough to write it down. I'm currently pursuing a Bachelor's degree in
+Computer Science, and developing a hackable "terminal-top" role-playing game
+engine.
+
+The tabs at the top of the page can be used to navigate to the various sections
+of the site. Clicking them will bring you to the list of pages in that section.
+

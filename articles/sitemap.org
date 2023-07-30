@@ -1,0 +1,4 @@
+#+TITLE: Article List
+
+- [[file:realizing-you-need-to-start-over.org][Realizing You Need To Start Over]]
+- [[file:for-want-of-a-more-limited-computer.org][For Want Of A More Limited Computer]]
