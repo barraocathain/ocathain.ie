@@ -1,0 +1,70 @@
+#+TITLE: Why I Love: Whiteboards
+#+DATE: <2024-01-23 Tue>
+#+DESCRIPTION: Whiteboards. They're pretty great.
+Whiteboards. They're pretty great.
+
+It's my New Year's resolution to be a bit more positive this time around the
+Sun, and to do that, I've been playing around with just taking a moment to
+appreciate some of the simple things I love about living on this little blue dot
+we call Earth, and the first of these things that I'd like to talk about is
+simple.
+
+Whiteboards. The ultimate human tool for problem solving. Big, small, but
+seemingly infinite possibilities for breaking down a problem into diagrams,
+equations, bullet points. Dramatic statement, I know! Yet, it's true.
+
+For me, the whiteboard is the engineer's counterpart to the mathematician's
+chalkboard, the artist's sketchbook, a writer's notebook. A whiteboard presents
+the opportunity to begin the problem solving process in a visual, communicable
+form. 
+
+A whiteboard represents an idea that is being *actively* worked on, in a form that
+few other tools can replicate. Simple lines of red, blue, black, and green, or
+occasionally other colours if you're the fancy type that doesn't purchase the
+first 4 pack of markers you see. In an instant, ideas can be reworded, redrawn,
+reformulated, cleanly, simply, with just a wipe.
+
+Once an idea is fully formed, you can transcribe it into a permanent form, the
+ink on the whiteboard is inherently temporary. This is not a downside, but a
+major advantage. Until an idea is finished, completed, made into a permanent
+form, it's able to be reworked with no effort, no loss.
+
+But why not a chalkboard? Well, for starters, it's a lot more rare to find a
+good-quality chalkboard and chalk. There's stories of mathematicians hoarding a
+specific brand of chalk, and for good reason, as if you're not careful, you end
+up with a stick that crumbles into powder before so much as leaving a mark! Not
+the case with a whiteboard! Buy yourself a marker and some wipes, and you're off
+to the races!
+
+Plus, there's the benefit of often creating much clearer lines than chalk, in a
+way that's more displayable than something like a notebook or sketchpad, which
+is often more intended for the view of a single person.
+
+What makes whiteboards the ultimate tool, however, is how they can be used to
+collaborate. A picture tells a thousand words, even a crudely drawn one in
+temporary ink. Nothing is easier than passing the marker to the next person to
+think of something, or to change a detail with a simple wipe.
+
+In fact, I love whiteboards so much that I often have to find alternatives when
+one isn't available. This can range from tabletop surfaces after an exploratory
+poke and wipe to make sure the ink comes off, battle mats from tabletop RPGs,
+mirrors, and windows!
+
+My alternatives have even stemmed to the aluminium clad walls during my first
+"proper" job, in a food production factory, where I often stood in an alcove off
+to the side of the production floor, inscribing a spreadsheet to calculate the
+optimal onion count for each day's needs, causing my manager to stop and ask if
+I were having a stroke. I was not. I was *problem-solving*, and yes, it made me
+much faster.
+
+However, the poor whiteboards' name has been marred, thanks to the whiteboard
+interview, a parlor trick for prospective programmers to prance before possible
+professions. Often misused, but beyond the scope of the positivity of this
+article. 
+
+Although, if you ask me, the only real problem with whiteboards is you never
+seem to have enough to hand. And the fact that whiteboard paint is more
+expensive than chalkboard paint, hence my bedroom chalkboard wall. 
+
+So in short, if you want to increase your engineering team's productivity, or
+need a gift idea for that nerd in your life: get them a whiteboard. 
