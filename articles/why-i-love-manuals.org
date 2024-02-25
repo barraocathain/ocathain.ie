@@ -1,0 +1,125 @@
+#+TITLE: Why I Love: Manuals
+#+DATE: <2024-02-23 Fri>
+#+DESCRIPTION: Manuals. They tell you things.
+I love manuals. I absolutely love them. I've been fascinated with them for as
+long as I can remember, although that's not very far. The question becomes, of
+course, why do I love them?
+
+* Part One: Those Darn Video Games
+My obsession with the paper tomes started with video game manuals. I have vivid
+memories of sitting in the back of the car with a brand new game, likely gotten
+for my birthday, and just poring over the manual again and again and again,
+eagerly seeking out tidbits of lore, mechanics, hints, artwork, diagrams. Most
+often these were Nintendo DS or Wii manuals. I'd often have read them a hundred
+times before I even got out of the car to get to play it.
+
+There's something special to me about those manuals. Big titles for these
+consoles often had big manuals, often with custom artwork, theming based around
+the game, and hints and tricks spread throughout. Smaller titles were often a
+much more utilitarian affair, simple black and white text arranged neatly on the
+thin paper.
+
+I loved being able to digest the information in such a simple way. It was
+relaxing, simply letting myself absorb information, and on rare occasions,
+actually checking them in order to find a button combination or a helpful map.
+
+I used to just read them for fun. I even took some to school, to read when I had
+sped through yet another page of simple sums. It was a fun comforting item for
+me to read. 
+
+But that was just the beginning of my manual craze. 
+
+* Part Two: Manuals Of Actual Consequence
+I was sitting in my Dad's Ford Transit van, bored to tears, when I started
+rummaging through the glove compartment. I then found the manual, and suddenly,
+I had something to read. I can't remember off the top of my head which year it
+was for, but I started flipping through. Pages of procedures for checking
+various things, how to operate the radio system, features of add-ons and
+variants that weren't on the van. In that moment, something clicked in my head
+that manuals were *real* sources of information.
+
+I then started reading pretty much any physical manual that came across my
+path. I've learned, in theory, but mostly forgotten, how to operate many pieces
+of machinery that I shall never see nor interact with, and that thought is
+simply very funny to me. I know how to open 180 degree doors on certain Transit
+Vans, for no reason at all, whatsoever.
+
+But I actually learned helpful things, too. Things like reading a copy of the
+"Rules of the Road" actually had some things stick around in my head, and
+managed to make passing my own theory test easier, although I did have to revise
+just a little bit as you can imagine.
+
+But I simply adore having a comprehensive, well written and illustrated manual
+to read. They are so unbelievably helpful that it still boggles the mind to me
+that "RTFM" is a common cry on forums, chats, and frustrated tech support calls
+everywhere? Why wouldn't you want to *read* a manual?
+
+Oh, yeah, because you're a sane human being who doesn't see a large table
+listing specifications, and think "Lovely!"
+
+I know there's some of you out there that agree. 
+
+* Part Three: Damn, Did I Miss The Good Part AGAIN?
+Unfortunately, I often look at scans and and pictures of older manuals. And holy
+hell, do they seem a lot more detailed, a lot more interesting to read! Frankly,
+they needed to be for anyone to get good information on a given thing. The
+lessened access to the gigantic source of all human knowledge and then 80
+percent entirely useless lowest-common-denominator faff.
+
+The advent of the Internet, and search engines, have somewhat lessened the need
+to put *everything* into a manual. Often times, you can buy a new gizmo or gadget
+and get a paper slip "Quick Start Guide", which simply tells you "plug it in,
+4head", and an impostor booklet that contains only the billion lines of legalese
+that tell you not to throw it in the rubbish bin and that you don't actually own
+the product you just paid for.
+
+Oh, and getting a big old spiral bound manual with your 8-bit home computer
+sounds simply lovely, and I want that, please, thank you very much. If it's
+going to sit on my desk, why *shouldn't* it be spiral bound?
+
+Did I miss this just like the Web 1.0?
+
+* Part Four: Digital Manuals, Or How I Learned To Stop Worrying And Love Texinfo.
+But the manual *lives* on. Sure, they take slightly different forms, these
+days. Sometimes, it's a wiki, or knowledge base, which is kept up to date
+rigorously and contains the same tips, tricks, and arcane knowledge I love.
+
+Other times it's three lines that are inaccurate at best. At least they're quick
+to read and dismiss, while you promptly find someone who knows what they're
+doing, and then make them your defacto manual.
+
+I think my favourite example comes from my favorite Lisp Interpeter/Web
+Browser/Chessboard/Snake Game/Text-Based Adventure/Text Editor, GNU Emacs. The
+built in manual is extensive, and just *chock* full of interesting tidbits. You
+can learn Emacs in one day. Everyday. But it's got a manual to match that, and
+docstrings galore to boot. With *three keypresses* you gain access to an *index* of
+different manuals.
+
+You certainly need it for a program that's been evolving since 1985. Emacs even
+comes with two manuals for the built in language, Emacs Lisp, one a reference,
+the other an introduction for non-programmers to that language!
+
+There's also the UNIX tradition of the good old man page. Quick, simple, and of
+course... accessible through Emacs. What, you expect me to *leave* Emacs? But more
+seriously, they can be a real mixed bag. Some are just detailed enough to get to
+know the program, others are small, and out-of-date. They are something to
+scratch that itch, either way.
+
+Not to mention the myriad of other software, hardware, and equipment that have
+massive digital manuals. While it's disappointing that I might not get something
+to hold in my hands, the replacement isn't too bad, and searching is a *godsend*
+for pulling the information you need. There's benefits to both, really.
+
+So I think there's plenty of high quality manuals left for me to read and
+refrence. And plenty more that have three sentences of poorly translated English
+that leave mep trudging to Stack Exchange to desperately find someone who
+hopefully had the same problem.
+
+And if you're not an Emacs user, and are complaining that GCC or some other
+program doesn't have documentation, do yourself a favour, and type:
+
+/"info"/
+
+This one may have happened in an IRC channel.
+
+Too long, didn't read? *Read the fuc-*

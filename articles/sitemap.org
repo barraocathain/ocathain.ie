@@ -1,5 +1,6 @@
 #+TITLE: Article List
 
+- [[file:why-i-love-manuals.org][Why I Love: Manuals]]
 - [[file:why-i-love-whiteboards.org][Why I Love: Whiteboards]]
 - [[file:realizing-you-need-to-start-over.org][Realizing You Need To Start Over]]
 - [[file:for-want-of-a-more-limited-computer.org][For Want Of A More Limited Computer]]
