@@ -111,8 +111,8 @@ to hold in my hands, the replacement isn't too bad, and searching is a *godsend*
 for pulling the information you need. There's benefits to both, really.
 
 So I think there's plenty of high quality manuals left for me to read and
-refrence. And plenty more that have three sentences of poorly translated English
-that leave mep trudging to Stack Exchange to desperately find someone who
+reference. And plenty more that have three sentences of poorly translated English
+that leave me trudging to Stack Exchange to desperately find someone who
 hopefully had the same problem.
 
 And if you're not an Emacs user, and are complaining that GCC or some other
